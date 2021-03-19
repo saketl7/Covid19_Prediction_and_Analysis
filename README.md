@@ -17,9 +17,11 @@
 ## X-RAY CLASSIFICATION
 **Classification Model**:
 - Input Data :
+
   80-20 split
   Augmented - rescale the image 1./255, rotate by 90 degrees, shift width and height by 0.15,flip horizontally, zoom by 0.5.
 
 - Convolutional neural network :
+
   4 Conv layers with 3x3 strides, ReLU Non-Linearity , Max Pooling, Batch Normalization 4 Dense Layers with Dropout
   Softmax layer
