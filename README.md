@@ -11,7 +11,7 @@
 
 
 ## Datasets Used
-![](demo/1)
+![](demo/1.png)
 
 
 ## X-Ray Classification
@@ -25,14 +25,16 @@
   Softmax layer
   
 ## Diagram: Graph showing new Covid'19 cases and the vaccinated cases
+![](demo/2.png)
 
 ## Diagram: Graph showing prediction of Covid'19 cases and tha vaccinated cases till March
-
+![](demo/3.png)
 
 ## How is this innovative
 - This Model is inspired by the famous AlexNet [4] and the FastRCN [5] paper.
 - The inputs are 224x224 images, which are passed through a total of four convolution layers, then flattened for classification.
 - This model powers a web application to classify the Corona Virus(Pneumonia) X-rays.
+![](demo/4.png)
 
 ## Conclusion
 - According to current situation, vaccination is provided to approx 2 lakh people per day. If we go in accordance with this, then it would take around 19 years to vaccinate 136 crore people.
@@ -41,3 +43,10 @@
   - Improve model accuracy
   - Refresh the front-end design
   - Deploy the pneumonia detection model on heroku
+
+## References
+[1] Chest X-Ray: https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset.
+[2] Vaccination Dataset: https://ourworldindia.org/
+[3] Covid Data: https://api.rootnet.in/
+[4] https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
+[5] https://arxiv.org/abs/1504.08083v2
