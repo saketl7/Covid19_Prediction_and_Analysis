@@ -37,7 +37,7 @@
 ![](demo/4.png)
 
 ## Conclusion
-- According to current situation, vaccination is provided to approx 2 lakh people per day. If we go in accordance with this, then it would take around 19 years to vaccinate 136 crore people.
+- According to current situation (28/01/2021 - India), vaccination is provided to approx 2 lakh people per day. If we go in accordance with this, then it would take around 19 years to vaccinate 136 crore people.
 - Our future work would include:
   - Get more data
   - Improve model accuracy
