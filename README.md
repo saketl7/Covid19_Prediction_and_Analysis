@@ -30,14 +30,14 @@
 
 
 ## How is this innovative
-● This Model is inspired by the famous AlexNet [4] and the FastRCN [5] paper.
-● The inputs are 224x224 images, which are passed through a total of four convolution layers, then flattened for classification.
-● This model powers a web application to classify the Corona Virus(Pneumonia) X-rays.
+- This Model is inspired by the famous AlexNet [4] and the FastRCN [5] paper.
+- The inputs are 224x224 images, which are passed through a total of four convolution layers, then flattened for classification.
+- This model powers a web application to classify the Corona Virus(Pneumonia) X-rays.
 
 ## Conclusion
-● According to current situation, vaccination is provided to approx 2 lakh people per day. If we go in accordance with this, then it would take around 19 years to vaccinate 136 crore people.
-● Our future work would include:
-○ Get more data
-○ Improve model accuracy
-○ Refresh the front-end design
-○ Deploy the pneumonia detection model on heroku
+- According to current situation, vaccination is provided to approx 2 lakh people per day. If we go in accordance with this, then it would take around 19 years to vaccinate 136 crore people.
+- Our future work would include:
+  - Get more data
+  - Improve model accuracy
+  - Refresh the front-end design
+  - Deploy the pneumonia detection model on heroku
