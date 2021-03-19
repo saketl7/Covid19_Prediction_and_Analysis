@@ -45,8 +45,8 @@
   - Deploy the pneumonia detection model on heroku
 
 ## References
-[1] Chest X-Ray: https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset.
-[2] Vaccination Dataset: https://ourworldindia.org/
-[3] Covid Data: https://api.rootnet.in/
-[4] https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
-[5] https://arxiv.org/abs/1504.08083v2
+1. Chest X-Ray: https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset.
+2. Vaccination Dataset: https://ourworldindia.org/
+3. Covid Data: https://api.rootnet.in/
+4. https://proceedings.neurips.cc/paper/2012/hash/c399862d3b9d6b76c8436e924a68c45b-Abstract.html
+5. https://arxiv.org/abs/1504.08083v2
