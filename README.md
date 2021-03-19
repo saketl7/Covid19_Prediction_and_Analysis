@@ -1,4 +1,4 @@
-# Covid19 Prediction and Analysis
+# Covid19 Detection, Vaccination and Analysis
 
 ## Introduction
 
